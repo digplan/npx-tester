@@ -1,6 +1,6 @@
 # npx-test
 Just run this from the terminal
 ````
-npx digplan/npx-test
+npx npx-tester
 ````
 If necessary, npm i npx
